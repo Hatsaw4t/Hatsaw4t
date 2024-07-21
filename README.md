@@ -1,4 +1,4 @@
-Hi ![](https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif)My name is Hatsawat Sumritdachavat![](https://media.tenor.com/eIKd6FhIcAIAAAAi/minecraft-blaze.gif)
+Hi ![](https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif)My name is Hatsawat Sumritdachavat
 ===============================================================================================================================================
 
 𝗙𝗮𝗰𝘂𝗹𝘁𝘆 𝗼𝗳 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗦𝘁𝘂𝗱𝗲𝗻𝘁, 𝗥𝗮𝗻𝗴𝘀𝗶𝘁 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 <a href="https://rsu.ac.th/" target="_blank" rel="noreferrer"><img src="https://biip.rsu.ac.th/wp-content/uploads/2022/11/RSU_2010Crest.png" width="36" height="47" alt="RSU" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
