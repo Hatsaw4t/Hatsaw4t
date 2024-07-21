@@ -1,7 +1,7 @@
-Hi ![](https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif)My name is Hatsawat Sumritdachavat ![](https://media.tenor.com/3QNUdJR3PUgAAAAi/twitch-youngmulti.gif)
+Hi ![](https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif)My name is Hatsawat Sumritdachavat ![](https://media.tenor.com/OeUw7OTU4L4AAAAi/fire-item.gif)
 ===============================================================================================================================================
 
-RSU CPE Student
+RSU CPE Student <a href="https://rsu.ac.th/" target="_blank" rel="noreferrer"><img src="https://biip.rsu.ac.th/wp-content/uploads/2022/11/RSU_2010Crest.png" width="36" height="36" alt="RSU" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
 ---------------
 
 * 🌍  I'm based in Prachuap Khiri Khan, Thailand
