@@ -11,7 +11,7 @@ Hi ![](https://media.tenor.com/2nzJPPcHjFoAAAAi/hello-hi.gif)My name is Hatsawat
 <a href="https://www.github.com/Hatsaw4t" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Hatsaw4t?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
-### Skills
+### 𝗦𝗸𝗶𝗹𝗹𝘀
 
 
 <p align="left">
@@ -19,11 +19,11 @@ src="https://img.shields.io/github/followers/Hatsaw4t?logo=github&style=for-the-
 </p>
 
 
-### Socials
+### 𝗦𝗼𝗰𝗶𝗮𝗹𝘀
 
 <p align="left"> <a href="https://discord.com/users/bxsz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/hatsawat.sumritdachawat/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Hatsaw4t" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/q_bos1y" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### 𝗕𝗮𝗱𝗴𝗲𝘀
 
 <b>My GitHub Stats</b>
 
@@ -35,6 +35,6 @@ src="https://img.shields.io/github/followers/Hatsaw4t?logo=github&style=for-the-
 
 <a href="https://github.com/Hatsaw4t" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatsaw4t&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<b>𝗧𝗼𝗽 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
